@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+body{
+    font-family: 'Italiana', serif;
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+}
+
+#start{
+    display: flex;
+    align-items: flex-start;
+}
+
+#end{
+    display: flex;
+    align-items: flex-end;
+}
+
+#middle{
+    display: flex;
+    justify-self: center;
+}
